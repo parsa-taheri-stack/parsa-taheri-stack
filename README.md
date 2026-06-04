@@ -1,12 +1,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Saligon ( Salon booking app )](https://github.com/parsa-taheri-stack/Salion)
+- 🔭 I’m currently working on [Salion ( Salon booking app )](https://github.com/parsa-taheri-stack/Salion)
 
 - 🌱 I’m currently learning **Next Js , Tailwindcss , React Native , TypeScript , electron.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parsa-taheri-stack](https://github.com/parsa-taheri-stack)
 
-- 💬 Ask me about **React , NodeJs , MongoDb**
+- 💬 Ask me about **React , NodeJs , MongoDb , Express.Js**
 
 - 📫 How to reach me **business.parsa.taheri@gmail.com**
 
