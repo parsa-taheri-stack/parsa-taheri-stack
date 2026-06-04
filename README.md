@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack ( Mern ) developer from Iran </h3>
 
 - 🔭 I’m currently working on [Salion ( Salon booking app )](https://github.com/parsa-taheri-stack/Salion)
 
